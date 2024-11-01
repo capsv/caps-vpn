@@ -1,5 +1,0 @@
-databaseChangeLog:
-  - include:
-      file: db/changelog/migrations/10-26-2024_create_schemas.yml
-  - include:
-      file: db/changelog/migrations/10-26-2024_create_person_table.yml

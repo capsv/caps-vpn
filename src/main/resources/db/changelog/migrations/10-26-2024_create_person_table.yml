@@ -1,7 +1,0 @@
-databaseChangeLog:
-  - changeSet:
-      id: 1.0.2
-      author: trapper
-      changes:
-        - sqlFile:
-            path: db/changelog/migrations/sql/10-26-2024_create_person_table.sql
